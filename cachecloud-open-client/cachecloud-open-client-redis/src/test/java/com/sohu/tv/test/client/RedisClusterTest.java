@@ -19,7 +19,7 @@ import java.util.concurrent.TimeUnit;
  */
 public class RedisClusterTest extends BaseTest {
 
-    private final static long appId = 0L;
+    private final static long appId = 10000L;
 
     @Test
     public void pushData() throws Exception {

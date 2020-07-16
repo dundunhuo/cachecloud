@@ -7,7 +7,7 @@
   </parent>
   <artifactId>cachecloud-open-common</artifactId>
   <name>cachecloud-open-common</name>
-  
+
   <dependencies>
 		<dependency>
 			<artifactId>slf4j-api</artifactId>
